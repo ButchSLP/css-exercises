@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+p {
+    background-color: #FFC0CB;
+    font-family: verdana, serif;
+    font-family: "dejaVu Sans", serif;
+
+}
+
+.number-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.number-three {
+    font-size: 24px;
+}
+
+.number-four {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
